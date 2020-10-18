@@ -285,5 +285,7 @@ mvnw.cmd
 .mvn
 .idea
 *.iml
+.classpath
+.project
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,intellij,netbeans,eclipse,java,java-web
